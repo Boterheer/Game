@@ -9,7 +9,7 @@ function main:initialize()
 end
 
 function main:update()
-    
+
 end
 
 function main:draw()
